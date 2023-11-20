@@ -1,0 +1,48 @@
+﻿FuncionarioID;Extensao;NomeFuncionario;Genero;DataAdmissao;Escritorio;Supervisor;Cargo;SalarioAnual;MetaVendas
+11;501;Rock Rollman;M;01/10/2012;5;Fletcher G. Mason;Sales Representative;135000;300000
+2;101;Eli Preston;M;15/09/2011;1;Fletcher G. Mason;Sales Representative;97000;90000
+3;102;Rob Carsson;M;01/10/2012;1;Fletcher G. Mason;Sales Representative;193000;360000
+14;301;Joan Callins;F;03/09/2012;3;Yvette E. Irwin;Sales Manager;83000;90000
+5;302;Ingrid Hendrix;F;17/10/2013;3;Fletcher G. Mason;Sales Representative;111300;100000
+56;401;Lennart Skoglund;M;18/01/2012;4;Fletcher G. Mason;Sales Representative;121200;150000
+7;201;Tom Lindwall;M;22/11/2013;2;Fletcher G. Mason;Sales Representative;181000;340000
+68;202;Leif Shine;M;05/03/2012;2;Dorian X. Banks;Sales Coordinator;165000;320000
+9;103;Helen Brolin;F;15/02/2013;1;Fletcher G. Mason;Sales Representative;137000;250000
+17;222;David Lesterman;M;11/10/2011;2;Xander Z. Miller;Product Manager;75500;
+20;333;John Cleaves;M;03/10/2012;3;Xander Z. Miller;Product Manager;65000;
+21;444;Miro Takako;F;22/02/2013;4;Xander Z. Miller;Product Manager;72000;
+22;555;Binh Protzmann;F;06/03/2012;5;Xander Z. Miller;Product Manager;68000;
+23;200;Cezar Sandu;M;23/02/2012;2;Orli O. Calhoun;Systems Manager;51000;
+24;200;Cindy Crawford;F;08/06/2013;2;Orli O. Calhoun;Systems Manager;50400;
+25;200;James Bond;M;06/07/2013;2;Orli O. Calhoun;Systems Manager;50000;
+26;200;John Doe;M;01/08/2014;2;Orli O. Calhoun;Systems Manager;51600;
+27;500;Mario Kaddafi;M;05/06/2012;5;Orli O. Calhoun;Systems Manager;51300;
+28;500;Paul Dupont;M;06/02/2013;5;Orli O. Calhoun;Systems Manager;51200;
+29;500;Sven Svensson;M;29/01/2014;5;Buckminster A. Fleming;Storeman;31000;
+30;500;Ira Baumel;F;31/12/2014;5;Buckminster A. Fleming;Storeman;30200;
+31;500;Keith Helmkey;M;01/04/2015;5;Buckminster A. Fleming;Storeman;30200;
+32;300;Rolf Wesenlund;M;29/07/2014;3;Buckminster A. Fleming;Storeman;35300;
+33;300;Ann Lindquist;F;11/01/2014;3;Buckminster A. Fleming;Storeman;37100;
+34;300;Bill Yang;M;11/01/2015;3;Buckminster A. Fleming;Storeman;32500;
+35;300;Charles Ingvar Jönsson;M;31/12/2014;3;Buckminster A. Fleming;Storeman;38000;
+36;300;Jacques Fin;M;03/08/2015;3;Buckminster A. Fleming;Storeman;36000;
+37;400;Jerry Tessel;M;02/08/2013;4;Dorian X. Banks;Network Manager;45000;
+38;400;John Lemon;M;02/09/2013;4;Dorian X. Banks;Network Manager;47000;
+39;400;Marcus Salvatori;M;07/01/2014;4;Lacey E. Harmon;Storeman;34500;
+40;400;Olivia Simenon;F;31/12/2014;4;Lacey E. Harmon;Storeman;39700;
+41;400;Sunil Gupta;M;04/01/2015;4;Lacey E. Harmon;Storeman;33800;
+42;104;Östen Ärlig;M;24/12/2012;1;Kaitlin K. Chavez;Account Manager;51000;
+43;203;Bob Park;M;09/10/2012;2;Kamal E. Kirk;Account Manager;50000;
+44;204;Clark Kentman;M;01/02/2012;2;Kamal E. Kirk;Account Manager;55000;
+45;303;Janice Cheng;F;02/08/2013;3;Kamal E. Kirk;Account Manager;52000;
+46;304;Kaya Alpan;F;21/01/2014;3;Kamal E. Kirk;Account Manager;51000;
+47;402;Michelle Tyson;F;01/02/2013;4;Kamal E. Kirk;Account Manager;50000;
+48;403;Ricardo Gucci;M;01/01/2014;4;Kamal E. Kirk;Account Manager;47600;
+49;NULL;Steve Cioazzi;M;01/01/2013;1;Dorian X. Banks;Operator/Clerk;27500;
+50;NULL;Kenneth Finley;M;01/01/2013;2;Yvette E. Irwin;Operator/Clerk;25600;
+51;NULL;Lucky Luke;M;03/01/2015;3;Fletcher G. Mason;Operator/Clerk;25000;
+52;NULL;Mike Ashkenaz;M;30/11/2014;1;Kaitlin K. Chavez;Account Manager;49500;
+53;NULL;Richard Ranieri;M;07/01/2015;2;Kaitlin K. Chavez;Account Manager;49500;
+54;NULL;Sabrina Richards;F;03/04/2014;3;Kaitlin K. Chavez;Account Manager;49500;
+55;NULL;Sehoon Daw;F;30/11/2014;4;Kaitlin K. Chavez;Account Manager;49500;
+161;NULL;Stefan Lind;M;28/12/2013;5;Kaitlin K. Chavez;Account Manager;49500;
