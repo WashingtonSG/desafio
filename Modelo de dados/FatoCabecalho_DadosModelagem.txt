@@ -1,4 +1,4 @@
-Data	ClienteID	FuncionarioID	ValorFrete	CupomID	EmpresaFrete	DataEntrega
+Data	     ClienteID	FuncionarioID	ValorFrete	CupomID	EmpresaFrete	DataEntrega
 22/03/2018	78	11	12,45	11081	Freight Express	05/04/2018
 21/11/2016	62	3	20,01	10637	One Liners	24/11/2016
 16/09/2017	64	3	20,36	11019	One Liners	03/10/2017
